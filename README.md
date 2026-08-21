@@ -1,28 +1,23 @@
-"# HackerRank Solutions"
-
 
 
 This repository contains my coding solutions from HackerRank practice.
 
 
 
-\## Structure
+# Structure
 
-\- easy/ → Beginner level problems
+easy → Beginner level problems
 
-\- medium/ → Intermediate problems
+medium → Intermediate problems
 
-\- hard/ → Advanced problems
-
-
-
-\## Language
-
-\- Python 🐍
+hard → Advanced problems
 
 
+# Language
+Python 🐍
 
-\## Goal
+
+# Goal
 
 To improve problem-solving skills and prepare for placements.
 
